@@ -1,0 +1,23 @@
+# Ignora l'ambiente virtuale Python
+venv/
+
+# Cache e file temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di configurazione degli editor
+.vscode/
+*.code-workspace
+
+# File del sistema operativo
+.DS_Store
+Thumbs.db
+
+# File di log
+*.log
+
+# File temporanei in generale
+*.tmp
+*.swp
